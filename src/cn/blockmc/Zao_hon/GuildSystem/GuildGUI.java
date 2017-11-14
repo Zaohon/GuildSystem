@@ -1,4 +1,4 @@
-package cn.blockmc.Zao_hon;
+package cn.blockmc.Zao_hon.GuildSystem;
 
 import java.util.ArrayList;
 import java.util.Arrays;

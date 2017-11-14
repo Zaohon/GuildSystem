@@ -1,0 +1,8 @@
+name: GuildSystem
+version: 0.1
+author: Zao_hon
+main: com.BrokenKingdom.Zao_hon.GuildSystem.Main
+commands:
+    GuildSystem:
+        aliases: [gs]
+    

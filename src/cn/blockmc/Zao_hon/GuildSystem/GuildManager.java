@@ -1,4 +1,4 @@
-package cn.blockmc.Zao_hon;
+package cn.blockmc.Zao_hon.GuildSystem;
 
 import java.io.File;
 import java.util.Collections;
